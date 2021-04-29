@@ -1,0 +1,16 @@
+/* .App {
+  text-align: center;
+} */
+
+.movie:nth-of-type(2n){
+  background-color: pink;
+}
+
+.movie{
+  position: relative;
+  box-sizing: border-box;
+  border: black 5px solid;
+  margin-bottom: 10px;
+  width: 90%;
+  left: 5%;
+}
